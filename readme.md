@@ -1,0 +1,1 @@
+This is to practice http ajax reuests.
